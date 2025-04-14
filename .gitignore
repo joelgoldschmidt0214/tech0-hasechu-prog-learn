@@ -172,3 +172,12 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# streamlit secrets
+.streamlit/*.toml
+
+# Google Service Account
+*.json
+
+# bash
+bash/
